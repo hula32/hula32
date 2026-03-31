@@ -87,7 +87,6 @@
 **Tech**
 `Django` `JavaScript` `Vue.js` `Gemini API`
 
----
 
 ### 2. 주(酒)파수 (와인 추천 서비스) 🚧 진행중
 
@@ -98,7 +97,6 @@
 **Tech**  
 `React` `Next.js` `TypeScript` `PostgreSQL` `Redis` `Python` `Scikit-learn`
 
----
 
 ### 3. 이웃집 웰리 (복지 추천 서비스)
 👉 https://github.com/hula32/Neighbor-Welly
