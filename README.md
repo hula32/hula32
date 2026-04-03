@@ -78,7 +78,7 @@
 ## ✨ Featured Projects
 
 ### 1. DreamTale (AI 인터랙티브 동화 플랫폼)
-👉 https://github.com/yugwon29-lab/DreamTale_Real
+👉 https://github.com/hula32/DreamTale_Real
 
 - 사용자 선택에 따라 스토리와 이미지가 생성되는 AI 서비스
 - 생성형 AI 기반 인터랙션 설계 및 서비스 기획 참여
@@ -88,7 +88,7 @@
 `Django` `JavaScript` `Vue.js` `Gemini API`
 
 
-### 2. 주(酒)파수 (와인 추천 서비스) 🚧 진행중
+### 2. 주(酒)파수 (와인 추천 서비스)
 
 - 와인 초보자를 위한 "실패 없는 한 병" 추천 서비스
 - 사용자 취향 기반 추천 + 상황 기반 추천 설계
